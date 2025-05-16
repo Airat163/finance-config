@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/authdb
     username: user
-    password: 0206
+    password: "0206"
     driver-class-name: org.postgresql.Driver
   jpa:
     properties:
